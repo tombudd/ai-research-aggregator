@@ -1,9 +1,5 @@
 #!/usr/bin/env python3
 """
-# PORTFOLIO DEMONSTRATION CODE
-# This is simplified demonstration code for portfolio purposes.
-# Production implementations use proprietary algorithms and optimizations.
-
 AI Research Aggregator - Main Engine
 
 Autonomous system for aggregating and analyzing AI research papers.
